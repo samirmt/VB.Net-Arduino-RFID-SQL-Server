@@ -13,3 +13,9 @@ um código que faz a leitura da tag e print na serial seu código hex.
 
 No SQL Server
 criar uma tabela para armazenar e consultar os dados.
+
+
+Hardware:
+
+1x Arduino
+1x RFID RC522 Mifare (https://goo.gl/oOcnQJ) Fonte da imagem: Arduino e Cia.
