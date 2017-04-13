@@ -15,7 +15,13 @@ No SQL Server
 criar uma tabela para armazenar e consultar os dados.
 
 
+o arquivo de conexão com o banco é este:
+https://github.com/samirmt/VB.Net-Arduino-RFID-SQL-Server/blob/master/VB.NET/Arduino_RFid/App.config
+
 Hardware:
 
 1x Arduino
 1x RFID RC522 Mifare (https://goo.gl/oOcnQJ) Fonte da imagem: Arduino e Cia.
+
+pequena demostração:
+https://www.youtube.com/watch?v=zmpo-N-FxpQ
